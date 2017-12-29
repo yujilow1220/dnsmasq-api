@@ -1,0 +1,3 @@
+bottle==0.12.13
+python-hosts==0.4.1
+win-inet-pton==1.0.1
